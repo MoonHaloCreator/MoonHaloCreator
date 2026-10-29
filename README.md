@@ -29,14 +29,3 @@
 _⚡ Always-learning developer, sharpening my skills one commit at a time. ⚡_
 
 _In the AI era, teaching my way toward becoming a **full-stack engineer** — leveraging **AI** to solve real problems and giving back to the **open source** community._
-  <tr>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.left.svg?v=1" alt="Metrics Left" width="100%">
-    </td>
-    <td align="center" width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/elysia395/elysia395/output/metrics.right.svg?v=1" alt="Metrics Right" width="100%">
-    </td>
-  </tr>
-</table>
-
-![](https://komarev.com/ghpvc/?username=elysia395&color=39C5BB&style=flat-square)
